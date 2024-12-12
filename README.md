@@ -23,3 +23,7 @@ When "Enter image path:" is printed, enter the image path.
 ![example first result](example_result1.png)
 ![example second image](example_image2.jpg)
 ![example sencond result](example_result2.png)
+
+## **Library**
+I use "blip-image-captioning-large" library.
+Link: https://huggingface.co/Salesforce/blip-image-captioning-large
