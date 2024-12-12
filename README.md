@@ -20,6 +20,6 @@ When "Enter image path:" is printed, enter the image path.
 
 ## **Results:**
 ![example first image](example_image1.jpg)
-![example first result](example_result1.jpg)
+![example first result](example_result1.png)
 ![example second image](example_image2.jpg)
-![example sencond result](example_result2.jpg)
+![example sencond result](example_result2.png)
